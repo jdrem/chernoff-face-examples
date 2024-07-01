@@ -15,10 +15,10 @@ repositories {
 }
 
 dependencies {
-    implementation 'net.remgant:chernoff-faces:1.0.0'
+    implementation 'net.remgant:chernoff-faces:2.0.0'
     implementation 'org.apache.xmlgraphics:batik-svg-dom:1.17'
     implementation 'org.apache.xmlgraphics:batik-svggen:1.17'
-    implementation 'org.apache.xmlgraphics:xmlgraphics-common:2.9'
+    implementation 'org.apache.xmlgraphics:xmlgraphics-commons:2.9'
 }
 
 group = 'net.remgant'

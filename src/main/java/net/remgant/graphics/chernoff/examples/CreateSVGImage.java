@@ -1,5 +1,6 @@
-package net.remgant.graphics;
+package net.remgant.graphics.chernoff.examples;
 
+import net.remgant.graphics.chernoff.InvalidValueException;
 import org.apache.batik.dom.GenericDOMImplementation;
 import org.apache.batik.svggen.SVGGeneratorContext;
 import org.apache.batik.svggen.SVGGraphics2D;

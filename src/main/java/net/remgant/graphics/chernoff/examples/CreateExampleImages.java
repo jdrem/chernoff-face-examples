@@ -1,4 +1,7 @@
-package net.remgant.graphics;
+package net.remgant.graphics.chernoff.examples;
+
+import net.remgant.graphics.chernoff.ChernoffFace;
+import net.remgant.graphics.chernoff.InvalidValueException;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

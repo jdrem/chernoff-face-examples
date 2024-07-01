@@ -1,5 +1,6 @@
-package net.remgant.graphics;
+package net.remgant.graphics.chernoff.examples;
 
+import net.remgant.graphics.chernoff.InvalidValueException;
 import org.apache.xmlgraphics.java2d.ps.EPSDocumentGraphics2D;
 
 import java.io.FileOutputStream;
